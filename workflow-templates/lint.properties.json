@@ -1,0 +1,7 @@
+{
+    "name": "Lint",
+    "description": "Linting workflow for Open-Homelab",
+    "iconName": "file-code",
+    "categories": [],
+    "filePatterns": []
+}
