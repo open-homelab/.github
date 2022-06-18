@@ -2,6 +2,17 @@
     "name": "Lint",
     "description": "Linting workflow for Open-Homelab",
     "iconName": "file-code",
-    "categories": [],
+    "categories": [
+      "CSS",
+      "CSV",
+      "Dockerfile",
+      "Elixir",
+      "GO",
+      "HCL",
+      "HTML",
+      "JSON",
+      "YAML",
+      "Shell"
+    ],
     "filePatterns": []
 }
